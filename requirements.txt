@@ -1,0 +1,33 @@
+# Core data processing libraries
+pandas==2.0.0
+numpy==1.24.3
+duckdb==0.8.1
+
+# Data extraction and processing
+zipfile36==0.0.5
+python-dateutil==2.8.2
+pyarrow==11.0.0
+
+# Geospatial analysis
+geopy==2.3.0
+folium==0.14.0
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.1
+missingno==0.5.2
+
+# Statistical analysis and machine learning
+scikit-learn==1.2.2
+statsmodels==0.13.5
+scipy==1.10.1
+
+# Jupyter environment for analysis
+jupyter==1.0.0
+notebook==6.5.4
+ipykernel==6.22.0
+
+# Utilities
+tqdm==4.65.0
+joblib==1.2.0
