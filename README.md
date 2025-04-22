@@ -1,6 +1,6 @@
 # Metro Bike Share Analysis Project
 
-![Project Banner](https://via.placeholder.com/1200x300/e8f4f8/2980b9?text=Metro+Bike+Share+Analysis)
+![Project Banner](bike_share.jpg)
 
 ## 📋 Table of Contents
 - [Project Overview](#project-overview)
@@ -27,6 +27,10 @@ This end-to-end data analytics project explores Metro Bike Share system data to 
 6. Generate data-driven recommendations for business improvement
 
 ## 🔄 Data Pipeline
+
+![ETL](bike_ETL_pipeline.jpg)
+
+
 
 The project begins with a robust ETL (Extract, Transform, Load) pipeline implemented in Python:
 
